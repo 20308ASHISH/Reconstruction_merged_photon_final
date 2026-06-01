@@ -1,0 +1,112 @@
+--------------------------------------------------
+Processing File: file:DP1_folder/AToGG_GEN_E0.1_new_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 39.0046768188
+Event 1: True NPU = 28.4718132019
+Event 2: True NPU = 33.1556625366
+Event 3: True NPU = 23.4318027496
+Event 4: True NPU = 36.7266807556
+Event 5: True NPU = 29.6909255981
+--------------------------------------------------
+Finished checking first five events.
+
+
+--------------------------------------------------
+Processing File: file:DP1_folder/AToGG_GEN_E0.5_new_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 24.6725692749
+Event 1: True NPU = 19.2254428864
+Event 2: True NPU = 17.5563011169
+Event 3: True NPU = 15.55514431
+Event 4: True NPU = 19.2431945801
+Event 5: True NPU = 22.8717556
+--------------------------------------------------
+Finished checking first five events.
+
+
+
+--------------------------------------------------
+Processing File: file:DP1_folder/AToGG_GEN_E1_new_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 31.2635822296
+Event 1: True NPU = 36.7328147888
+Event 2: True NPU = 22.4930953979
+Event 3: True NPU = 39.7260437012
+Event 4: True NPU = 27.5068969727
+Event 5: True NPU = 49.7826538086
+--------------------------------------------------
+Finished checking first five events.
+
+
+
+--------------------------------------------------
+Processing File: file:DP1_folder/AToGG_GEN_E5_new_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 32.1253662109
+Event 1: True NPU = 32.9393501282
+Event 2: True NPU = 31.4049320221
+Event 3: True NPU = 25.3231925964
+Event 4: True NPU = 40.5347671509
+Event 5: True NPU = 32.7833824158
+--------------------------------------------------
+Finished checking first five events.
+
+
+
+--------------------------------------------------
+Processing File: file:DP1_folder/AToGG_GEN_E10_new_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 22.3591423035
+Event 1: True NPU = 38.480506897
+Event 2: True NPU = 21.8492355347
+Event 3: True NPU = 24.6495933533
+Event 4: True NPU = 12.8599376678
+Event 5: True NPU = 23.8531017303
+--------------------------------------------------
+Finished checking first five events.
+
+
+
+--------------------------------------------------
+Processing File: file:DP1_folder/sample_paper_data_M0.1_1k_events_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 26.7999610901
+Event 1: True NPU = 37.877040863
+Event 2: True NPU = 26.4850311279
+Event 3: True NPU = 14.3500299454
+Event 4: True NPU = 29.4792461395
+Event 5: True NPU = 13.5759687424
+--------------------------------------------------
+Finished checking first five events.
+
+
+
+
+--------------------------------------------------
+Processing File: file:DP1_folder/sample_paper_data_M0.4_1k_events_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 30.3495903015
+Event 1: True NPU = 39.1367645264
+Event 2: True NPU = 37.5557632446
+Event 3: True NPU = 25.0878601074
+Event 4: True NPU = 37.5993537903
+Event 5: True NPU = 27.8925628662
+--------------------------------------------------
+Finished checking first five events.
+
+
+
+--------------------------------------------------
+Processing File: file:DP1_folder/sample_paper_data_M1_1k_events_DIGI.root
+--------------------------------------------------
+Event 0: True NPU = 22.4930953979
+Event 1: True NPU = 25.4550895691
+Event 2: True NPU = 26.8064517975
+Event 3: True NPU = 25.3944702148
+Event 4: True NPU = 33.4007568359
+Event 5: True NPU = 31.2635822296
+--------------------------------------------------
+Finished checking first five events.
+
+
+

@@ -1,0 +1,1110 @@
+%MSG-i ThreadStreamSetup:  (NoModuleName) 01-May-2026 20:47:33 CEST pre-events
+setting # threads 8
+setting # streams 8
+%MSG
+01-May-2026 20:47:36 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.5_new.root
+01-May-2026 20:47:37 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.5_new.root
+01-May-2026 20:47:37 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 20:47:38 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 20:47:38 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root?tried=.
+%MSG
+01-May-2026 20:47:38 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 20:49:15 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root?tried=+1213llrxrd-redir.in2p3.fr.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 20:49:15 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root?tried=+1213llrxrd-redir.in2p3.fr,.
+%MSG
+01-May-2026 20:49:15 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.5_new.root
+----- Begin Fatal Exception 01-May-2026 20:49:15 CEST-----------------------
+An exception of category 'FallbackFileOpenError' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing module: class=PreMixingModule label='mixData'
+   [2] Calling RootFileSequenceBase::initTheFile()
+   [3] Calling StorageFactory::open()
+   [4] Calling XrdFile::open()
+Exception Message:
+Failed to open the file 'root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root'
+   Additional Info:
+      [a] XrdCl::File::Open(name='root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root', flags=0x10, permissions=0660) => error '[ERROR] Server responded with an error: [3011] Unable to open file /eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root; No such file or directory
+' (errno=3011, code=400). No additional data servers were found.
+      [b] Last URL tried: root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root?tried=
+      [c] Problematic data server: eoscms.cern.ch:1094
+      [d] Disabled source: eoscms.cern.ch:1094
+      [e] Input file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root could not be opened.
+Fallback Input file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root also could not be opened.
+Original exception info is above; fallback exception info is below.
+      [f] XrdCl::File::Open(name='root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root', flags=0x10, permissions=0660) => error '[ERROR] Server responded with an error: [3011] No servers are available to read the file.
+' (errno=3011, code=400). No additional data servers were found.
+      [g] Last URL tried: root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/1E86A9EE-BC5F-DD49-B21A-4AB1E7B61D47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/6464FF3C-4173-B14B-8510-4204D0D76C90.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/FD5B2268-AC0F-D840-8191-70596FE16EB4.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/D93C8B29-58AC-114A-B369-8DD024D0C5B1.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A7AE42A0-1E29-7949-82B4-430C7A7E0B87.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/957DB313-9E51-1B49-BE92-7938AD209C8B.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/A1DA54C7-6614-D14A-88F2-25F5BA874F47.root/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/96ED831F-E268-684C-94F6-CDAAAE8B571E.root?tried=+1213llrxrd-redir.in2p3.fr,
+      [h] Problematic data server: cms-xrd-global.cern.ch:1094
+      [i] Disabled source: cms-xrd-global.cern.ch:1094
+----- End Fatal Exception -------------------------------------------------
+
+# i didn't put the comma btw files
+
+
+
+%MSG-i ThreadStreamSetup:  (NoModuleName) 01-May-2026 20:59:06 CEST pre-events
+setting # threads 8
+setting # streams 8
+%MSG
+01-May-2026 20:59:09 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.5_new.root
+01-May-2026 20:59:09 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.5_new.root
+01-May-2026 20:59:10 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 20:59:11 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 20:59:11 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root?tried=.
+%MSG
+01-May-2026 20:59:11 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root
+Unable to load sec.protocol plugin libXrdSecztn.so
+[2026-05-01 20:59:12.813826 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] Authentication with gsi failed: login failed
+[2026-05-01 20:59:12.813899 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] No protocols left to try
+[2026-05-01 20:59:12.813908 +0200][Error  ][AsyncSock         ] [maite.iihe.ac.be:1094 #0.0] Socket error while handshaking: [FATAL] Auth failed
+[2026-05-01 20:59:12.813967 +0200][Error  ][PostMaster        ] [maite.iihe.ac.be:1094 #0] elapsed = 0, pConnectionWindow = 31 seconds.
+[2026-05-01 20:59:12.911729 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] Authentication with gsi failed: login failed
+[2026-05-01 20:59:12.911763 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] No protocols left to try
+[2026-05-01 20:59:12.911768 +0200][Error  ][AsyncSock         ] [maite.iihe.ac.be:1094 #0.0] Socket error while handshaking: [FATAL] Auth failed
+[2026-05-01 20:59:12.911791 +0200][Error  ][PostMaster        ] [maite.iihe.ac.be:1094 #0] elapsed = 0, pConnectionWindow = 31 seconds.
+[2026-05-01 20:59:12.911801 +0200][Error  ][PostMaster        ] [maite.iihe.ac.be:1094 #0] Unable to recover: [FATAL] Auth failed.
+[2026-05-01 20:59:12.911810 +0200][Error  ][XRootD            ] [maite.iihe.ac.be:1094] Impossible to send message kXR_open (file: /store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root, mode: 0660, flags: kXR_open_read kXR_async kXR_retstat ). Trying to recover.
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 21:00:57 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root?tried=+1213llrxrd-redir.in2p3.fr,+1213xrootd-cms-redir-int.cr.cnaf.infn.it,+1213xrootd-redic.pi.infn.it,maite.iihe.ac.be.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 21:03:52 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root?tried=+1213llrxrd-redir.in2p3.fr,+1213xrootd-cms-redir-int.cr.cnaf.infn.it,+1213xrootd-redic.pi.infn.it,maite.iihe.ac.be.
+%MSG
+01-May-2026 21:03:52 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.5_new.root
+----- Begin Fatal Exception 01-May-2026 21:03:52 CEST-----------------------
+An exception of category 'FallbackFileOpenError' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing module: class=PreMixingModule label='mixData'
+   [2] Calling RootFileSequenceBase::initTheFile()
+   [3] Calling StorageFactory::open()
+   [4] Calling XrdFile::open()
+Exception Message:
+Failed to open the file 'root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root'
+   Additional Info:
+      [a] XrdCl::File::Open(name='root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root', flags=0x10, permissions=0660) => error '[ERROR] Server responded with an error: [3011] Unable to open file /eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root; No such file or directory
+' (errno=3011, code=400). No additional data servers were found.
+      [b] Last URL tried: root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root?tried=
+      [c] Problematic data server: eoscms.cern.ch:1094
+      [d] Disabled source: eoscms.cern.ch:1094
+      [e] Input file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root could not be opened.
+Fallback Input file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root also could not be opened.
+Original exception info is above; fallback exception info is below.
+      [f] XrdCl::File::Open(name='root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root', flags=0x10, permissions=0660) => error '[ERROR] Operation expired' (errno=0, code=206). No additional data servers were found.
+      [g] Last URL tried: root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/10005/03D69CC2-AC83-C842-8823-952899B9E51A.root?tried=+1213llrxrd-redir.in2p3.fr,+1213xrootd-cms-redir-int.cr.cnaf.infn.it,+1213xrootd-redic.pi.infn.it,maite.iihe.ac.be
+      [h] Problematic data server: cms-xrd-global.cern.ch:1094
+      [i] Disabled source: cms-xrd-global.cern.ch:1094
+----- End Fatal Exception -------------------------------------------------
+%MSG-i ThreadStreamSetup:  (NoModuleName) 01-May-2026 22:16:41 CEST pre-events
+setting # threads 8
+setting # streams 8
+%MSG
+01-May-2026 22:16:43 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.5_new.root
+01-May-2026 22:16:44 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.5_new.root
+01-May-2026 22:16:44 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 22:16:45 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 22:16:45 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root?tried=.
+%MSG
+01-May-2026 22:16:45 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root
+Unable to load sec.protocol plugin libXrdSecztn.so
+[2026-05-01 22:16:47.505559 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] Authentication with gsi failed: login failed
+[2026-05-01 22:16:47.505620 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] No protocols left to try
+[2026-05-01 22:16:47.505629 +0200][Error  ][AsyncSock         ] [maite.iihe.ac.be:1094 #0.0] Socket error while handshaking: [FATAL] Auth failed
+[2026-05-01 22:16:47.505695 +0200][Error  ][PostMaster        ] [maite.iihe.ac.be:1094 #0] elapsed = 0, pConnectionWindow = 31 seconds.
+[2026-05-01 22:16:47.604617 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] Authentication with gsi failed: login failed
+[2026-05-01 22:16:47.604657 +0200][Error  ][XRootDTransport   ] [maite.iihe.ac.be:1094 #0.0] No protocols left to try
+[2026-05-01 22:16:47.604663 +0200][Error  ][AsyncSock         ] [maite.iihe.ac.be:1094 #0.0] Socket error while handshaking: [FATAL] Auth failed
+[2026-05-01 22:16:47.604690 +0200][Error  ][PostMaster        ] [maite.iihe.ac.be:1094 #0] elapsed = 0, pConnectionWindow = 31 seconds.
+[2026-05-01 22:16:47.604702 +0200][Error  ][PostMaster        ] [maite.iihe.ac.be:1094 #0] Unable to recover: [FATAL] Auth failed.
+[2026-05-01 22:16:47.604712 +0200][Error  ][XRootD            ] [maite.iihe.ac.be:1094] Impossible to send message kXR_open (file: /store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root, mode: 0660, flags: kXR_open_read kXR_async kXR_retstat ). Trying to recover.
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 22:19:38 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root?tried=+1213xrootd-cms-redir-int.cr.cnaf.infn.it,+1213xrootd-redic.pi.infn.it,maite.iihe.ac.be.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  01-May-2026 22:22:34 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root?tried=+1213xrootd-cms-redir-int.cr.cnaf.infn.it,+1213xrootd-redic.pi.infn.it,maite.iihe.ac.be.
+%MSG
+01-May-2026 22:22:35 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.5_new.root
+----- Begin Fatal Exception 01-May-2026 22:22:35 CEST-----------------------
+An exception of category 'FallbackFileOpenError' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing module: class=PreMixingModule label='mixData'
+   [2] Calling RootFileSequenceBase::initTheFile()
+   [3] Calling StorageFactory::open()
+   [4] Calling XrdFile::open()
+Exception Message:
+Failed to open the file 'root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root'
+   Additional Info:
+      [a] XrdCl::File::Open(name='root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root', flags=0x10, permissions=0660) => error '[ERROR] Server responded with an error: [3011] Unable to open file /eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root; No such file or directory
+' (errno=3011, code=400). No additional data servers were found.
+      [b] Last URL tried: root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root?tried=
+      [c] Problematic data server: eoscms.cern.ch:1094
+      [d] Disabled source: eoscms.cern.ch:1094
+      [e] Input file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root could not be opened.
+Fallback Input file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root also could not be opened.
+Original exception info is above; fallback exception info is below.
+      [f] XrdCl::File::Open(name='root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root', flags=0x10, permissions=0660) => error '[ERROR] Operation expired' (errno=0, code=206). No additional data servers were found.
+      [g] Last URL tried: root://cms-xrd-global.cern.ch:1094//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root?tried=+1213xrootd-cms-redir-int.cr.cnaf.infn.it,+1213xrootd-redic.pi.infn.it,maite.iihe.ac.be
+      [h] Problematic data server: cms-xrd-global.cern.ch:1094
+      [i] Disabled source: cms-xrd-global.cern.ch:1094
+----- End Fatal Exception -------------------------------------------------
+
+
+
+%MSG-i ThreadStreamSetup:  (NoModuleName) 02-May-2026 18:28:24 CEST pre-events
+setting # threads 8
+setting # streams 8
+%MSG
+02-May-2026 18:28:27 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.5_new.root
+02-May-2026 18:28:28 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.5_new.root
+02-May-2026 18:28:28 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+Unable to load sec.protocol plugin libXrdSecztn.so
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:28:30 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:28:30 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+02-May-2026 18:28:31 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/03B84433-68F0-234B-AAA8-31942F0D0074.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:28:32 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:28:32 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/03B84433-68F0-234B-AAA8-31942F0D0074.root
+02-May-2026 18:28:37 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/33C54B9F-4075-D945-B61E-0B0F473A2505.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:28:39 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:28:39 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/33C54B9F-4075-D945-B61E-0B0F473A2505.root
+02-May-2026 18:28:48 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/48016C7D-13EE-714D-AB37-2687B3E1F081.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:28:49 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:28:49 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/48016C7D-13EE-714D-AB37-2687B3E1F081.root
+02-May-2026 18:28:54 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:28:56 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:28:56 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root
+02-May-2026 18:29:05 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/729D30B8-F6E0-AE42-8B84-7BE181BEEC76.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:29:06 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:29:07 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/729D30B8-F6E0-AE42-8B84-7BE181BEEC76.root
+02-May-2026 18:29:13 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/D718FCC8-F3E4-7541-9704-238189526236.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:29:14 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:29:14 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/D718FCC8-F3E4-7541-9704-238189526236.root
+02-May-2026 18:29:18 CEST  Initiating request to open file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/D718FCC8-F3E4-7541-9704-238189526236.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 18:29:19 CEST  pre-events
+Data is served from iihe.ac.be instead of original site CERN-CMSGLOBAL-02
+%MSG
+02-May-2026 18:29:19 CEST  Successfully opened file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/D718FCC8-F3E4-7541-9704-238189526236.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 1 at 02-May-2026 18:29:25.406 CEST
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 on stream 0 at 02-May-2026 18:29:25.406 CEST
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 6 at 02-May-2026 18:29:25.406 CEST
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 2 at 02-May-2026 18:29:25.406 CEST
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 7 at 02-May-2026 18:29:25.406 CEST
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 4 at 02-May-2026 18:29:25.406 CEST
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 5 at 02-May-2026 18:29:25.407 CEST
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 3 at 02-May-2026 18:29:25.407 CEST
+----- Begin Fatal Exception 02-May-2026 18:29:59 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 7 stream: 5
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 18:29:59 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 8 stream: 3
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 18:29:59 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 1 stream: 1
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 18:29:59 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 5 stream: 7
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 18:30:00 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 6 stream: 4
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 18:30:00 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 2 stream: 0
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 18:30:00 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 4 stream: 2
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 18:30:00 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 3 stream: 6
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+02-May-2026 18:30:00 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.5_new.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/03B84433-68F0-234B-AAA8-31942F0D0074.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/33C54B9F-4075-D945-B61E-0B0F473A2505.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/48016C7D-13EE-714D-AB37-2687B3E1F081.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/58D29D6F-A340-CC41-AAB0-908A846CACB6.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/729D30B8-F6E0-AE42-8B84-7BE181BEEC76.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/D718FCC8-F3E4-7541-9704-238189526236.root
+02-May-2026 18:30:00 CEST  Closed file root://cms-xrd-global.cern.ch//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/D718FCC8-F3E4-7541-9704-238189526236.root
+TimeReport> Time report complete in 99.8364 seconds
+ Time Summary: 
+ - Min event:   34.5131
+ - Max event:   34.6016
+ - Avg event:   34.5739
+ - Total loop:  38.5819
+ - Total init:  61.0863
+ - Total job:   99.8364
+ - EventSetup Lock:   73.2333
+ - EventSetup Get:   13.7694
+ Event Throughput: 0.207351 ev/s
+ CPU Summary: 
+ - Total loop:  221.275
+ - Total init:  7.16685
+ - Total extra: 0
+ - Total job:   228.577
+ Processing Summary: 
+ - Number of Events:  8
+ - Number of Global Begin Lumi Calls:  1
+ - Number of Global Begin Run Calls: 1
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 XrdAdaptor           -w PreMixingModule:                       8        8
+    2 TimeReport           -e AfterModEndJob                         1        1
+    3 Fatal Exception      -s AfterModStreamEn                       2        2
+    4 Fatal Exception      -s PostProcessPath                        6        6
+    5 fileAction           -s PreMixingModule:                      16       16
+    6 fileAction           -s PreMixingModule:                       8        8
+    7 fileAction           -s file_close                             1        1
+    8 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 XrdAdaptor           pre-events       pre-events       pre-events
+    2 TimeReport           PostGlobalEndRun                  
+    3 Fatal Exception      Run: 1 Lumi: 1 S Run: 1 Lumi: 1 S 
+    4 Fatal Exception      1/7              1/8              1/4
+    5 fileAction           pre-events       pre-events       pre-events
+    6 fileAction           PostGlobalEndRun PostGlobalEndRun PostGlobalEndRun
+    7 fileAction           PostGlobalEndRun                  
+    8 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                 8                   8
+Error                   1                   1
+System                 35                  35
+
+dropped waiting message count 0
+
+
+
+%MSG-i ThreadStreamSetup:  (NoModuleName) 02-May-2026 18:48:38 CEST pre-events
+setting # threads 8
+setting # streams 8
+%MSG
+02-May-2026 18:48:57 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.5_new.root
+02-May-2026 18:48:58 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.5_new.root
+02-May-2026 18:48:58 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.5_new.root
+----- Begin Fatal Exception 02-May-2026 18:48:58 CEST-----------------------
+An exception of category 'Configuration' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing module: class=MixingModule label='mix'
+Exception Message:
+MissingParameter: Parameter 'accumulatorType' not found.
+----- End Fatal Exception -------------------------------------------------
+%MSG-i ThreadStreamSetup:  (NoModuleName) 02-May-2026 20:37:55 CEST pre-events
+setting # threads 8
+setting # streams 8
+%MSG
+02-May-2026 20:38:00 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.5_new.root
+02-May-2026 20:38:01 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.5_new.root
+02-May-2026 20:38:02 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.5_new.root
+----- Begin Fatal Exception 02-May-2026 20:38:02 CEST-----------------------
+An exception of category 'Configuration' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing module: class=MixingModule label='mix'
+Exception Message:
+MissingParameter: Parameter 'accumulatorType' not found.
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 02-May-2026 20:41:09 CEST-----------------------
+An exception of category 'ConfigFileReadError' occurred while
+   [0] Processing the python configuration file named genSimDigiRaw_mcProd_SS.py
+Exception Message:
+ unknown python problem occurred.
+RuntimeError: The TaskPlaceholder mix cannot be resolved.
+ Known keys are:['ak6HiGenJets', 'simBscDigis', 'simHcalTechTrigDigis', 'simHcalTTPDigis', 'RecoParticleFlowFEVT', 'REDIGIEventContent', 'CSCCommonTrigger', 'L1TriggerFEVTDEBUG', 'RecoMuonAOD', 'pdigi_valid_nogen', 'RecoMuonIsolationFEVT', 'configurationMetadata', 'genMETParticlesTask', 'SimTrackerPREMIX', 'RandomNumberGeneratorService', 'RecoLocalCaloRECO', 'CaloTPGTranscoder', 'histoMaxVariableDR_C3d_params', 'dttfpacker', 'REPACKRAWEventContent', 'HLTriggerAOD', 'SimL1TMuonTask', 'RECODEBUGEventContent', '_Process__InExtendCall', 'hgcalTriggerPrimitives', 'simMuonME0Digis', 'PREMIXRAWEventContent', 'pdatamix', 'castorRawData', 'pdigi_valid', 'LSParameter', 'HcalGeometryFromDBEP', 'DigiToRaw', 'RAWSIMEventContent', 'CastorGeometryFromDBEP', 'SimG4CoreAOD', 'simMuonDTDigis', 'DQMEventContent', 'distance_C2d_params', 'hgcalConcentrator', 'hcalRawData', 'simCsctfDigis', 'ecalDigitizer', 'EcalTrigTowerConstituentsMapBuilder', 'SimL1TCalorimeter', 'VertexSmearing', 'simEcalEBTriggerPrimitiveDigis', '_Process__isStrict', 'c2d_calib_pset', 'SimCalorimetryAOD', 'muonDigi', 'HcalTPGCoderULUT', 'genJetParticles', 'SectCollParametersBlock', 'simGtStage2Digis', '_Process__looper', 'DigiToRawTask', 'me0TriggerPseudoDigiTask', 'TcdsEventContent', 'CondDB', 'be_proc', 'options', 'simEcalDigis', 'MicroEventContentGEN', 'CSCIndexerESSource', 'pdigi', 'GeneInfo', 'simEcalPreshowerDigis', 'DTGeometryESModule', 'VolumeBasedMagneticFieldESProducer', 'SimMuonRAW', 'CaloTopologyBuilder', 'SimCalorimetryFEVTDEBUG', 'ecal_digi_parameters', 'RAWRECOEventContent', 'recoGenJetsTask', 'genPUProtons', 'ecal_electronics_sim', 'patAlgosToolsTask', 'randomEngineStateProducer', 'hcalSimBlock', 'generatorSmeared', 'BeamSpotAOD', 'dtpacker', 'SimTrackerRAW', 'RecoEcalRECO', 'TrackerRecoGeometryESProducer', 'apd_sim_parameters', 'hgcalBackEndLayer1', 'CaloTowerTopologyEP', 'ParabolicParametrizedMagneticFieldProducer', 'RecoCTPPSAOD', 'pgen', 'BeamSpotFEVT', 'cscpacker', 'genCandidatesForMET', 'SimL1TechnicalTriggersTask', 'FEVTDEBUGEventContent', 'rawDataCollector', 'ecal_notCont_sim', 'RECOEventContent', 'L1TriggerRAW', 'castorDigitizer', 'RecoTrackerRECO', 'RAWAODSIMEventContent', 'kt6HiGenJets', 'hcalRawDataVME', 'simEmtfDigisMC', 'GlobalTrackingGeometryESProducer', 'caloStage2Raw', 'me0Segments', 'SimGeneralFEVTDEBUG', 'hcalTopologyIdeal', 'RecoLocalTrackerRECO', 'simMuonRPCDigis', 'HLTScouting', 'CastorDbProducer', 'tpScales', 'RecoParticleFlowAOD', 'tower_map', 'simGmtCaloSumDigis', 'idealForDigiCSCGeometry', 'SimL1EmulatorCoreTask', 'genParticlesForMETAllVisible', 'hgceeDigitizer', 'HLTDEBUGEventContent', 'DMEcalTriggerPrimitiveDigis', 'heavyIon', 'hiRecoGenJets', 'pdigi_hi', 'SimFastTimingFEVTDEBUG', 'LutParametersBlock', '_Process__modifiers', 'DTTPGMapBlock', 'MEtoEDMConverterRECO', 'SimFastTimingPREMIX', 'es_electronics_sim', 'recoGenMET', '_Process__esproducers', 'prunedDigiSimLinks', 'fakeForIdealAlignment', 'REPACKRAWSIMEventContent', 'fakeTwinMuxParams', 'CaloGeometryBuilder', 'PREMIXRAWoutput', 'simGctDigis', 'ak1HiGenJets', 'pdigi_hi_nogen', 'muonME0RealDigi', 'best_conc_proc', 'EvtScalersRECO', 'RecoLocalCaloFEVT', 'csctfpacker', 'calDigi', 'genMetTrue', 'RecoLocalTrackerFEVT', 'DTTPGParametersBlock', 'me0TriggerPseudoDigis', 'RecoHcalNoiseFEVT', 'GeneratorInterfaceAOD', 'hgcalTowerMapProducer', 'hcalDigiSequence', 'recoAllGenJetsNoNu', 'genMetCalo', 'FASTPUEventContent', 'ME0SegmentAlgorithm', 'simDtTriggerPrimitiveDigis', 'GlobalParameters', 'SimGeneralPREMIX', 'genJetMETTask', 'SiStripSimBlock', 'RecoGenMETFEVT', 'MEtoMEComparitor', 'DMHcalDigis', 'SimTrackerRECO', 'l1ugmtdb', 'DMEcalPreshowerDigis', 'RecoTrackerFEVT', 'TrackingToolsRECO', '_Process__subProcesses', 'RecoJetsRECO', 'RecoEgammaAOD', 'RecoLocalFastTimeAOD', 'ecalDigiSequence', 'simMuonME0PseudoReDigis', 'eegeom', 'IOMCRAW', 'RAWEventContent', 'RecoHcalNoiseRECO', 'ak8GenJetsNoNu', 'RecoMuonIsolationRECO', '_Process__vpsets', 'EcalElectronicsMappingBuilder', 'pdigiTask_hi', 'hgchebackDigitizer', 'RecoCTPPSRECO', 'MEtoEDMConverterFEVT', 'tpPruningTask', 'fixGenInfo', 'EITopPAGEventContent', 'caloLayer1RawFed1358', 'L1DTConfigFromDB', 'HepPDTESSource', 'muonGEMDigi', 'genParticles', 'RecoMuonIsolationAOD', 'caloLayer1RawFed1356', 'caloLayer1RawFed1354', 'simRctDigis', 'geometry', 'HLTriggerRECO', 'pdigiTask_nogen', 'me0RecHitsCoarse', 'RecoMTDFEVT', 'SimL1TGlobalTask', 'hgcalConcentratorProducer', 'iterativeCone5HiGenJets', 'genParticlesForJetsNoNu', 'twinmuxParamsSource', 'iterativeCone7HiGenJets', 'AnomalousCellParameters', 'simCaloStage1Digis', 'egamma_identification_drnn_cone', 'RecoBTauRECO', 'RecoMuonIsolationParamGlobal', 'RecoMETAOD', 'AODEventContent', 'GenJetParameters', 'PREMIXEventContent', 'PoolSource', 'CSCGeometryESModule', 'SimL1TCalorimeterTask', 'genMetCaloAndNonPrompt', 'trackerNumberingGeometryDB', '_Process__name', 'DigiToRawFEVT', 'EcalBarrelGeometryFromDBEP', 'DMHcalTTPDigis', 'hgcalTriggerPrimitivesTask', 'l1GtEvmPack', '_cloneToObjectDict', 'egamma_identification_histomax', 'genParticlesForJetsNoMuNoNu', 'SimFastTimingRECO', 'muonME0DigiTask', 'FEVTHLTALLEventContent', 'RecoEgammaRECO', 'muonME0PseudoDigi', 'SimG4CoreHLTAODSIM', 'L1TTriggerTowerConfig_etaphi', 'L1TDigiToRaw', 'es_hardcode', 'HLTDebugRAW', 'RecoPixelVertexingRECO', 'RecoParticleFlowRECO', 'simMuonCSCDigis', 'mixData', 'RecoMTDRECO', 'threshold_conc_proc', 'NanoAODEDMEventContent', 'omtfStage2Raw', 'simMuonGEMPadDigis', 'simGmtStage2Digis', 'CSCIndexerESProducer', 'recoGenMETTask', 'GlobalParametersRcdSource', 'RecoLocalMuonFEVT', 'rpcpacker', 'trackerGeometryDB', 'ak4GenJets', 'CSCChannelMapperESProducer', 'HcalAlignmentEP', 'EcalPreshowerGeometryFromDBEP', 'hcalDDDRecConstants', 'dtTriggerPrimitiveDigis', 'castorDigiTask', 'SimMuonAOD', 'muonGEMDigiTask', 'CSCChannelMapperESSource', 'GeneratorInterfaceRAW', 'FEVTEventContent', 'BeamSpotRECO', 'RecoVertexRECO', 'RAWMINIAODEventContent', 'caloConfigSource', 'simCscTriggerPrimitiveDigis', 'l1GtPack', 'simGtExtFakeStage2Digis', 'RecoPixelVertexingFEVT', 'TrackingToolsFEVT', 'digitisation_step', 'NANOAODSIMEventContent', '_Process__sequences', 'siStripQualityESProducer', 'towerMap2D_parValues', 'egamma_identification_drnn_dbscan', 'TSPhiParametersBlock', 'hfnoseDigitizer', 'MicroEventContentMC', 'FEVTSIMEventContent', 'RecoLocalMuonRECO', 'RecoTauTagAOD', 'hgcalVFE', 'RAWRECOSIMHLTEventContent', 'hcalDDDSimConstants', 'hcalRawDatauHTR', 'L1TriggerAOD', 'genParticleCandidates', 'SimL1TGlobal', 'RecoGenMETAOD', 'addPileupInfo', 'siStripLorentzAngleDepESProducer', 'SimTrackerAOD', 'SiPixelSimBlock', 'histoInterpolatedMax_C3d_params', 'RecoGenJetsRECO', 'HLTriggerRAW', 'hgchefrontDigitizer', '_Process__producers', 'GlobalTag', 'postDMDigi', 'ecalPacker', 'RecoVertexFEVT', 'NANOAODGENEventContent', 'SimMuonFEVTDEBUG', 'digi2raw_step', 'dbscan_C3d_params', 'MuonDetLayerGeometryESProducer', 'simRctUpgradeFormatDigis', 'EcalEndcapGeometryFromDBEP', 'calDigiTask', 'simEmtfDigisData', 'hcalDigiTaskDM', 'MessageLogger', 'endOfProcess', 'simMuonGEMDigis', 'SimFastTimingAOD', 'hgcalVFEProducer', 'histoMax_C3d_params', 'SimMuonRECO', 'NANOAODEventContent', 'caloLayer1Raw', 'BtiParametersBlock', 'simTwinMuxDigis', '_Process__switchproducers', 'bmbtfParamsSource', 'MIXINGMODULEEventContent', '_Process__esprefers', 'SimL1TMuon', 'RAWDEBUGHLTEventContent', 'L1TriggerRAWDEBUG', 'RecoLocalMuonAOD', '_Process__analyzers', 'RecoMETRECO', 'pdigiTask_hi_nogen', 'EvtScalersAOD', 'simMuonGEMPadDigiClusters', '_Process__tasks', '_Process__paths', 'DMEcalEBTriggerPrimitiveDigis', 'ak5HiGenJets', 'genMETParticles', 'muonME0Digi', 'simGtDigis', 'FEVTDEBUGHLTEventContent', 'gemPacker', 'esDigiToRaw', 'me0DigiCommonParameters', 'ak8GenJetsNoMuNoNu', 'L1simulation_step', 'SiStripRecHitMatcherESProducer', 'RAWRECODEBUGHLTEventContent', 'RecoJetsAOD', 'RecoBTagFEVT', 'prunedTrackingParticles', 'RPCConeBuilder', 'GeneInfoTask', 'RAWMINIAODSIMEventContent', 'SimpleMemoryCheck', 'simCaloStage1LegacyFormatDigis', 'ecalLocalRecoRECO', 'siStripGainESProducer', 'L1TDigiToRawTask', 'RPCGeometryESModule', 'idealForDigiDTGeometry', 'ZdcGeometryFromDBEP', 'SimG4CoreRECO', 'genJetMET', 'simDttfDigis', 'SimTrackerFEVTDEBUG', 'RecoMuonRECO', 'RecoJetsFEVT', 'MINIAODSIMEventContent', 'caloStage1Raw', 'hcalRawDataTask', 'trackerTopology', 'MEtoEDMConverter', 'fixGenInfoTask', 'pgen_genonly', 'pdigi_nogen', 'es_prefer_hcalHardcode', 'SimL1EmulatorCore', 'DMHcalTriggerPrimitiveDigis', 'StripCPEfromTrackAngleESProducer', '_Process__aliases', 'RecoHcalNoiseAOD', 'recoAllGenJets', 'histoThreshold_C3d_params', 'RecoEcalFEVT', 'EcalLaserCorrectionService', 'simMuonME0PseudoReDigisCoarse', 'datamixing_step', 'REGENEventContent', 'RU_ME0', 'SimCalorimetryRAW', 'simEcalTriggerPrimitiveDigis', 'RecoGenJetsFEVT', 'c2d_thresholds_pset', 'ecalDigiTaskDM', 'simHcalTriggerPrimitiveDigis', 'RecoLocalCaloAOD', 'SimGeneralRECO', 'SimL1TechnicalTriggers', 'RecoMTDAOD', '_Process__schedule', 'simCsctfTrackDigis', 'siPixelRawData', 'RecoLocalFastTimeRECO', 'SimFastTimingRAW', 'supertc_conc_proc', 'RecoBTauFEVT', 'simGmtDigis', 'ak7HiGenJets', 'histoSecondaryMax_C3d_params', 'endjob_step', '_Process__partialschedules', 'SimL1EmulatorTask', 'vfe_proc', 'pdatamixTask', '_Process__source', 'DMEcalDigis', 'hcal_db_producer', 'TSThetaParametersBlock', 'rpcconesrc', 'endOfProcess_withComparison', 'RecoGenMETRECO', 'distance_C3d_params', 'SimTrackerDEBUG', 'genParticlesForJets', 'source', 'rpcTriggerDigis', 'CaloTowerGeometryFromDBEP', 'RAWSIMHLTEventContent', 'hcalDigiTask', 'MINIAODEventContent', 'RecoTauTagRECO', 'simRpcTechTrigDigis', 'Timing', 'RecoLocalFastTimeFEVT', 'simEmtfDigis', 'ak8GenJets', 'RecoBTauAOD', 'LHEEventContent', 'RAWDEBUGEventContent', 'simMuonME0PseudoDigis', 'siPixelQualityESProducer', 'RecoGenJetsAOD', 'SimL1TMuonCommon', '_Process__endpaths', 'me0RecHits', 'bmtfStage2Raw', 'hgcalTowerMap', 'SimMuonPREMIX', 'tower', 'ME0SegAlgoRU', 'simCaloStage2Digis', '_Process__services', 'ak2HiGenJets', 'genMetIC5GenJets', 'ak4GenJetsNoNu', 'ak4GenJetsNoMuNoNu', 'OnlineMetaDataContent', 'PREMIXRAWoutput_step', 'AODSIMEventContent', 'dummy_C2d_params', 'mtdDigitizer', 'ecal_sim_parameter_map', 'SimG4CoreRAW', 'l1conddb', 'RecoMETFEVT', 'TrackingToolsAOD', 'ecal_cosmics_sim', 'kt4HiGenJets', 'SimGeneralRAW', 'siStripBackPlaneCorrectionDepESProducer', 'schedule', 'RecoMuonFEVT', 'simCaloStage1FinalDigis', 'caloConfig', 'RecoCTPPSFEVT', '_Process__outputmodules', 'doAllDigiTask', 'idealForDigiTrackerGeometry', 'ecalDigiTask', 'RecoBTagRECO', 'hgcalBackEndLayer2', 'SimL1Emulator', 'SimCalorimetryPREMIX', 'ak4HiGenJets', '_Process__essources', 'DATAMIXEREventContent', 'ecalLocalRecoAOD', 'RecoEgammaFEVT', 'GENRAWEventContent', 'hgcalTriggerGeometryESProducer', 'RecoLocalTrackerAOD', 'simOmtfDigis', 'GeneratorInterfaceRECO', 'ecalLocalRecoFEVT', 'GEMGeometryESModule', '_Process__psets', 'SimL1TMuonCommonTask', 'HLTDebugFEVT', 'hgcalTower', 'maxEvents', 'castorDigiSequence', 'ak3HiGenJets', 'SimGeneralAOD', 'topological_C2d_params', 'simHcalDigis', 'GeneratorInterfaceLHE', 'RecoTauTagFEVT', 'RecoVertexAOD', 'RecoTrackerAOD', 'genJetParticlesTask', 'recoGenJets', 'RESIMEventContent', 'DQMStore', 'GenSmeared', 'genstepfilter', 'gtStage2Raw', 'MEtoEDMConverterAOD', 'HcalTimeSlewEP', 'simCastorTechTrigDigis', 'hgcalBackEndLayer2Producer', 'simBmtfDigis', 'stripCPEESProducer', '_Process__filters', 'me0PseudoDigiCommonParameters', 'RAWAODEventContent', 'hgcalBackEndLayer1Producer', 'gctDigiToRaw', 'muonDigiTask', 'HFRecalParameterBlock', 'TracoParametersBlock', 'RecoBTagAOD', 'gemDigiCommonParameters', 'SimCalorimetryRECO', 'hgcalTowerProducer', 'RecoEcalAOD', 'CommonEventContent', 'TUParamsBlock', 'phase2TrackerDigitizer', 'SiStripDigiToRaw', 'RECOSIMEventContent', 'simRpcTriggerDigis', 'gmtStage2Raw', 'pdigiTask', 'simMuonME0PadDigis', 'constrTopological_C2d_params', 'MINIGENEventContent', 'MicroEventContent', 'sistripconn', 'HcalTrigTowerGeometryESProducer', 'simCaloStage2Layer1Digis', 'doAllDigi', 'recoAllGenJetsNoMuNoNu', 'simMuonME0PadDigiClusters', 'L1TriggerRECO']
+
+At:
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/SequenceTypes.py(1477): resolve
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/SequenceTypes.py(1453): resolve
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/SequenceTypes.py(1453): resolve
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/SequenceTypes.py(402): resolve
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/SequenceTypes.py(181): resolve
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/SequenceTypes.py(400): resolve
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/Config.py(983): resolve
+  /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_6_29/python/FWCore/ParameterSet/Utilities.py(73): convertToUnscheduled
+  genSimDigiRaw_mcProd_SS.py(130): <module>
+
+----- End Fatal Exception -------------------------------------------------
+02-May-2026 22:27:37 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.1_new.root
+02-May-2026 22:27:38 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.1_new.root
+02-May-2026 22:27:39 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  02-May-2026 22:27:40 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  02-May-2026 22:27:40 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+02-May-2026 22:27:40 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+Unable to load sec.protocol plugin libXrdSecztn.so
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 02-May-2026 22:27:42 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_IT_Pisa
+%MSG
+02-May-2026 22:27:42 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 02-May-2026 22:27:47.634 CEST
+%MSG-w CSCTriggerPrimitivesProducer:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  02-May-2026 22:27:47 CEST Run: 1 Event: 1
++++ Warning: Collection of wire digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-w NoInputCollection:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  02-May-2026 22:27:47 CEST Run: 1 Event: 1
++++ Warning: Collection of wire digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-w CSCTriggerPrimitivesProducer:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  02-May-2026 22:27:47 CEST Run: 1 Event: 1
++++ Warning: Collection of comparator digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-w NoInputCollection:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  02-May-2026 22:27:47 CEST Run: 1 Event: 1
++++ Warning: Collection of comparator digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-e RPCTechnicalTrigger:  RPCTechnicalTrigger:simRpcTechTrigDigis  02-May-2026 22:27:55 CEST Run: 1 Event: 1
+can't find RPCDigiCollection with label: InputTag:  label = mixData, instance = 
+
+%MSG
+----- Begin Fatal Exception 02-May-2026 22:27:55 CEST-----------------------
+An exception of category 'Conditions mismatch' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 1 stream: 0
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Calling method for module PreMixingModule/'mixData'
+Exception Message:
+Requested conditions of type HcalGains for cell (0x49307413) (HF -29,19,3) got conditions for cell (0x48004f13) (HF -30,19,1)
+----- End Fatal Exception -------------------------------------------------
+Another exception was caught while trying to clean up files after the primary fatal exception.
+02-May-2026 22:27:56 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+02-May-2026 22:27:56 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.1_new.root
+TimeReport> Time report complete in 26.5666 seconds
+ Time Summary: 
+ - Min event:   8.32739
+ - Max event:   8.32739
+ - Avg event:   8.32739
+ - Total loop:  12.2731
+ - Total init:  14.2534
+ - Total job:   26.5666
+ - EventSetup Lock:   7.62939e-05
+ - EventSetup Get:   10.5283
+ Event Throughput: 0.0814788 ev/s
+ CPU Summary: 
+ - Total loop:  7.35233
+ - Total init:  5.53017
+ - Total extra: 0
+ - Total job:   12.9038
+ Processing Summary: 
+ - Number of Events:  1
+ - Number of Global Begin Lumi Calls:  1
+ - Number of Global Begin Run Calls: 1
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 CSCTriggerPrimitives -w CSCTriggerPrimit                       2        2
+    2 NoInputCollection    -w CSCTriggerPrimit                       2        2
+    3 XrdAdaptor           -w PreMixingModule:                       1        1
+    4 XrdAdaptorInternal   -w PreMixingModule:                       2        2
+    5 RPCTechnicalTrigger  -e RPCTechnicalTrig                       1        1
+    6 TimeReport           -e AfterFile                              1        1
+    7 Additional Exception -s PostGlobalEndRun                       1        1
+    8 Fatal Exception      -s PostProcessPath                        1        1
+    9 fileAction           -s PreMixingModule:                       3        3
+   10 fileAction           -s PreMixingModule:                       1        1
+   11 fileAction           -s file_close                             1        1
+   12 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 CSCTriggerPrimitivesProducer 1/1              1/1              
+    2 NoInputCollection    1/1              1/1              
+    3 XrdAdaptor           pre-events                        
+    4 XrdAdaptorInternal   pre-events       pre-events       
+    5 RPCTechnicalTrigger  1/1                               
+    6 TimeReport           PostGlobalEndRun                  
+    7 Additional Exceptions PostGlobalEndRun                  
+    8 Fatal Exception      1/1                               
+    9 fileAction           pre-events       pre-events       pre-events
+   10 fileAction           PostGlobalEndRun                  
+   11 fileAction           PostGlobalEndRun                  
+   12 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                 7                   7
+Error                   2                   2
+System                  9                   9
+
+dropped waiting message count 0
+
+
+
+02-May-2026 22:29:56 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.1_new.root
+02-May-2026 22:29:57 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.1_new.root
+02-May-2026 22:29:57 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  02-May-2026 22:29:58 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  02-May-2026 22:29:58 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root?tried=.
+%MSG
+02-May-2026 22:29:58 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  02-May-2026 22:31:05 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root?tried=+1213xrootd-redic.pi.infn.it.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  02-May-2026 22:31:05 CEST pre-events
+Failed to open file at URL root://cms-xrd-global.cern.ch:1094//store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root?tried=+1213xrootd-redic.pi.infn.it,.
+%MSG
+02-May-2026 22:31:05 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.1_new.root
+----- Begin Fatal Exception 02-May-2026 22:31:05 CEST-----------------------
+An exception of category 'FallbackFileOpenError' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing module: class=PreMixingModule label='mixData'
+   [2] Calling RootFileSequenceBase::initTheFile()
+   [3] Calling StorageFactory::open()
+   [4] Calling XrdFile::open()
+Exception Message:
+Failed to open the file 'root://xrootd-cms.infn.it//store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root'
+   Additional Info:
+      [a] XrdCl::File::Open(name='root://eoscms.cern.ch//eos/cms/store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root', flags=0x10, permissions=0660) => error '[ERROR] Server responded with an error: [3011] Unable to open file /eos/cms/store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root; No such file or directory
+' (errno=3011, code=400). No additional data servers were found.
+      [b] Last URL tried: root://eoscms.cern.ch:1094//eos/cms/store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root?tried=
+      [c] Problematic data server: eoscms.cern.ch:1094
+      [d] Disabled source: eoscms.cern.ch:1094
+      [e] Input file root://eoscms.cern.ch//eos/cms/store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root could not be opened.
+Fallback Input file root://xrootd-cms.infn.it//store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root also could not be opened.
+Original exception info is above; fallback exception info is below.
+      [f] XrdCl::File::Open(name='root://xrootd-cms.infn.it//store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root', flags=0x10, permissions=0660) => error '[ERROR] Server responded with an error: [3011] No servers are available to read the file.
+' (errno=3011, code=400). No additional data servers were found.
+      [g] Last URL tried: root://cms-xrd-global.cern.ch:1094//store/mc/Summer12/Neutrino_E-10_gun/GEN-SIM-DIGI-RAW/PU_S10_START53_V7A-v1/0000/001A76E5-5398-E111-AF05-001E673970FD.root?tried=+1213xrootd-redic.pi.infn.it,
+      [h] Problematic data server: cms-xrd-global.cern.ch:1094
+      [i] Disabled source: cms-xrd-global.cern.ch:1094
+----- End Fatal Exception -------------------------------------------------
+03-May-2026 10:30:47 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.1_new.root
+03-May-2026 10:30:48 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.1_new.root
+03-May-2026 10:30:48 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:30:49 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:30:49 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:30:49 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+Unable to load sec.protocol plugin libXrdSecztn.so
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:30:51 CEST  pre-events
+Data is served from iihe.ac.be instead of original site infn.it
+%MSG
+03-May-2026 10:30:51 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 03-May-2026 10:31:15.191 CEST
+%MSG-w CSCTriggerPrimitivesProducer:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  03-May-2026 10:31:15 CEST Run: 1 Event: 1
++++ Warning: Collection of wire digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-w NoInputCollection:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  03-May-2026 10:31:15 CEST Run: 1 Event: 1
++++ Warning: Collection of wire digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-w CSCTriggerPrimitivesProducer:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  03-May-2026 10:31:15 CEST Run: 1 Event: 1
++++ Warning: Collection of comparator digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-w NoInputCollection:   CSCTriggerPrimitivesProducer:simCscTriggerPrimitiveDigis  03-May-2026 10:31:15 CEST Run: 1 Event: 1
++++ Warning: Collection of comparator digis with label mixData requested in configuration, but not found in the event... Skipping production of CSC TP digis +++
+
+%MSG
+%MSG-e RPCTechnicalTrigger:  RPCTechnicalTrigger:simRpcTechTrigDigis  03-May-2026 10:31:22 CEST Run: 1 Event: 1
+can't find RPCDigiCollection with label: InputTag:  label = mixData, instance = 
+
+%MSG
+----- Begin Fatal Exception 03-May-2026 10:31:23 CEST-----------------------
+An exception of category 'Conditions mismatch' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 1 stream: 0
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Calling method for module PreMixingModule/'mixData'
+Exception Message:
+Requested conditions of type HcalGains for cell (0x49307413) (HF -29,19,3) got conditions for cell (0x48004f13) (HF -30,19,1)
+----- End Fatal Exception -------------------------------------------------
+Another exception was caught while trying to clean up files after the primary fatal exception.
+03-May-2026 10:31:23 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:31:23 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.1_new.root
+TimeReport> Time report complete in 45.3897 seconds
+ Time Summary: 
+ - Min event:   8.61492
+ - Max event:   8.61492
+ - Avg event:   8.61492
+ - Total loop:  12.2979
+ - Total init:  33.0691
+ - Total job:   45.3897
+ - EventSetup Lock:   5.00679e-05
+ - EventSetup Get:   10.2871
+ Event Throughput: 0.0813148 ev/s
+ CPU Summary: 
+ - Total loop:  6.36555
+ - Total init:  4.91889
+ - Total extra: 0
+ - Total job:   11.2979
+ Processing Summary: 
+ - Number of Events:  1
+ - Number of Global Begin Lumi Calls:  1
+ - Number of Global Begin Run Calls: 1
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 CSCTriggerPrimitives -w CSCTriggerPrimit                       2        2
+    2 NoInputCollection    -w CSCTriggerPrimit                       2        2
+    3 XrdAdaptor           -w PreMixingModule:                       1        1
+    4 XrdAdaptorInternal   -w PreMixingModule:                       2        2
+    5 RPCTechnicalTrigger  -e RPCTechnicalTrig                       1        1
+    6 TimeReport           -e AfterFile                              1        1
+    7 Additional Exception -s PostGlobalEndRun                       1        1
+    8 Fatal Exception      -s PostProcessPath                        1        1
+    9 fileAction           -s PreMixingModule:                       3        3
+   10 fileAction           -s PreMixingModule:                       1        1
+   11 fileAction           -s file_close                             1        1
+   12 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 CSCTriggerPrimitivesProducer 1/1              1/1              
+    2 NoInputCollection    1/1              1/1              
+    3 XrdAdaptor           pre-events                        
+    4 XrdAdaptorInternal   pre-events       pre-events       
+    5 RPCTechnicalTrigger  1/1                               
+    6 TimeReport           PostGlobalEndRun                  
+    7 Additional Exceptions PostGlobalEndRun                  
+    8 Fatal Exception      1/1                               
+    9 fileAction           pre-events       pre-events       pre-events
+   10 fileAction           PostGlobalEndRun                  
+   11 fileAction           PostGlobalEndRun                  
+   12 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                 7                   7
+Error                   2                   2
+System                  9                   9
+
+dropped waiting message count 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ------------------------------------------------------------------------------------------------
+               NOW TRYING WITH RUN II InputTag
+#-------------------------------------------------------------------------------------------------
+
+
+%MSG-i ThreadStreamSetup:  (NoModuleName) 03-May-2026 10:52:32 CEST pre-events
+setting # threads 8
+setting # streams 8
+%MSG
+03-May-2026 10:52:35 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E0.1_new_RUN_II.root
+03-May-2026 10:52:36 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E0.1_new_RUN_II.root
+03-May-2026 10:52:37 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:52:38 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:52:38 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:52:38 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+Unable to load sec.protocol plugin libXrdSecztn.so
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:52:40 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:52:40 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:00 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:01 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:01 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:53:01 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:53:02 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:53:02 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:03 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:04 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:04 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:53:04 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:53:05 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:53:05 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:05 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:07 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:07 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:53:07 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:53:08 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:53:08 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:08 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:09 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:09 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:53:09 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:53:10 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:53:10 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:11 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:12 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:12 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:53:12 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:53:13 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:53:13 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:13 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:14 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:14 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:53:14 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:53:15 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:53:15 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:16 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:17 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root.
+%MSG
+%MSG-w XrdAdaptorInternal:  PreMixingModule:mixData@ctor  03-May-2026 10:53:17 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root?tried=.
+%MSG
+03-May-2026 10:53:17 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+%MSG-w XrdAdaptor:  PreMixingModule:mixData@ctor 03-May-2026 10:53:18 CEST  pre-events
+Data is served from iihe.ac.be instead of original site T2_FR_GRIF_LLR
+%MSG
+03-May-2026 10:53:18 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 2 at 03-May-2026 10:53:22.958 CEST
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 on stream 6 at 03-May-2026 10:53:22.958 CEST
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 4 at 03-May-2026 10:53:22.958 CEST
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 1 at 03-May-2026 10:53:22.958 CEST
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 3 at 03-May-2026 10:53:22.958 CEST
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 7 at 03-May-2026 10:53:22.958 CEST
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 0 at 03-May-2026 10:53:22.958 CEST
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 5 at 03-May-2026 10:53:22.958 CEST
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 6 stream: 7
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 4 stream: 1
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 3 stream: 4
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 7 stream: 0
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 1 stream: 2
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 2 stream: 6
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 5 stream: 3
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+----- Begin Fatal Exception 03-May-2026 10:53:52 CEST-----------------------
+An exception of category 'ProductNotFound' occurred while
+   [0] Processing  Event run: 1 lumi: 1 event: 8 stream: 5
+   [1] Running path 'PREMIXRAWoutput_step'
+   [2] Prefetching for module PoolOutputModule/'PREMIXRAWoutput'
+   [3] Prefetching for module CSCDigiProducer/'simMuonCSCDigis'
+   [4] Prefetching for module PreMixingModule/'mixData'
+   [5] Calling method for module MixingModule/'mix'
+Exception Message:
+Principal::getByLabel: Found zero products matching all criteria
+Looking for type: std::vector<PSimHit>
+Looking for module label: g4SimHits
+Looking for productInstanceName: MuonGEMHits
+
+   Additional Info:
+      [a] If you wish to continue processing events after a ProductNotFound exception,
+add "SkipEvent = cms.untracked.vstring('ProductNotFound')" to the "options" PSet in the configuration.
+
+----- End Fatal Exception -------------------------------------------------
+03-May-2026 10:53:52 CEST  Closed file file:DP1_folder/AToGG_GEN_E0.1_new_RUN_II.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+03-May-2026 10:53:52 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIISummer20ULPrePremix/Neutrino_E-10_gun/PREMIX/UL18_106X_upgrade2018_realistic_v11_L1v1-v2/230004/6F18884E-08ED-1C44-9306-0402A98ACC32.root
+TimeReport> Time report complete in 84.5963 seconds
+ Time Summary: 
+ - Min event:   29.7828
+ - Max event:   29.7959
+ - Avg event:   29.7917
+ - Total loop:  32.996
+ - Total init:  51.4036
+ - Total job:   84.5963
+ - EventSetup Lock:   64.4261
+ - EventSetup Get:   12.4336
+ Event Throughput: 0.242453 ev/s
+ CPU Summary: 
+ - Total loop:  186.429
+ - Total init:  6.09915
+ - Total extra: 0
+ - Total job:   192.625
+ Processing Summary: 
+ - Number of Events:  8
+ - Number of Global Begin Lumi Calls:  1
+ - Number of Global Begin Run Calls: 1
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 XrdAdaptor           -w PreMixingModule:                       8        8
+    2 XrdAdaptorInternal   -w PreMixingModule:                      16       16
+    3 TimeReport           -e AfterModEndJob                         1        1
+    4 Fatal Exception      -s PostProcessPath                        8        8
+    5 fileAction           -s PreMixingModule:                      24       24
+    6 fileAction           -s PreMixingModule:                       8        8
+    7 fileAction           -s file_close                             1        1
+    8 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 XrdAdaptor           pre-events       pre-events       pre-events
+    2 XrdAdaptorInternal   pre-events       pre-events       pre-events
+    3 TimeReport           PostGlobalEndRun                  
+    4 Fatal Exception      1/6              1/4              1/8
+    5 fileAction           pre-events       pre-events       pre-events
+    6 fileAction           PostGlobalEndRun PostGlobalEndRun PostGlobalEndRun
+    7 fileAction           PostGlobalEndRun                  
+    8 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                24                  24
+Error                   1                   1
+System                 43                  43
+
+dropped waiting message count 0

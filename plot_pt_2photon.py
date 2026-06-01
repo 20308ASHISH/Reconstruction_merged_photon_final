@@ -1,0 +1,72 @@
+# for lead and sub lead based on sorting 
+
+import os
+import ROOT
+
+ROOT.gROOT.SetBatch(True)
+ROOT.gStyle.SetOptStat("emruo")
+
+input_filename = "DP1_folder/AToGG_GEN_E_new_all_10k_Ntuple.root"
+output_dir = "plots_PhotonPtAnalysis"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+infile = ROOT.TFile.Open(input_filename, "READ")
+tree = infile.Get("ntupler/T")
+
+if not tree:
+    exit(1)
+
+# Combined plot for all events
+h_lead_pt = ROOT.TH1F("h_lead_pt", "Reco Photon p_{T} Spectrum;Photon p_{T} [GeV];Events", 100, 0, 150)
+h_sublead_pt = ROOT.TH1F("h_sublead_pt", "", 100, 0, 150)
+
+num_events = tree.GetEntries()
+print("Processing {} entries for inclusive pT distributions...".format(num_events))
+
+for entry in range(num_events):
+    tree.GetEntry(entry)
+    
+    if not hasattr(tree, 'pt') or len(tree.pt) == 0:
+        continue
+
+    # Sort all reconstructed photon pT values in descending order
+    sorted_pt = sorted(list(tree.pt), reverse=True)
+    
+    # Highest pT object always exists if len > 0
+    h_lead_pt.Fill(sorted_pt[0])
+    
+    # If a second separate cluster exists, fill its pT. Otherwise, it is 0 (merged)
+    if len(sorted_pt) >= 2:
+        h_sublead_pt.Fill(sorted_pt[1])
+    else:
+        h_sublead_pt.Fill(0.0)
+
+c = ROOT.TCanvas("c_pt_inclusive", "", 800, 600)
+c.SetMargin(0.12, 0.05, 0.12, 0.10)
+
+h_lead_pt.SetLineColor(ROOT.kBlue)
+h_lead_pt.SetLineWidth(2)
+
+h_sublead_pt.SetLineColor(ROOT.kRed)
+h_sublead_pt.SetLineWidth(2)
+h_sublead_pt.SetLineStyle(2)
+
+max_lead = h_lead_pt.GetMaximum()
+max_sublead = h_sublead_pt.GetMaximum()
+h_lead_pt.SetMaximum(max(max_lead, max_sublead) * 1.2)
+
+h_lead_pt.Draw("HIST")
+h_sublead_pt.Draw("HIST SAME")
+
+leg = ROOT.TLegend(0.60, 0.75, 0.92, 0.88)
+leg.SetBorderSize(0)
+leg.SetFillStyle(0)
+leg.AddEntry(h_lead_pt, "Leading Photon", "l")
+leg.AddEntry(h_sublead_pt, "Sub-leading Photon", "l")
+leg.Draw()
+
+c.SaveAs(os.path.join(output_dir, "reco_photon_pt_inclusive.png"))
+
+infile.Close()
+print("Inclusive pT comparison plot generated successfully inside: {}".format(output_dir))

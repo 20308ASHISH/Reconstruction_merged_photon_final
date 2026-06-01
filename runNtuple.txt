@@ -1,0 +1,730 @@
+
+Attaching file DP1_folder/AToGG_GEN_E10_new_Ntuple.root as _file0...
+(TFile *) 0x2261e40
+******************************************************************************
+*Tree    :T         : MyTuple                                                *
+*Entries :     1000 : Total =         7128225 bytes  File  Size =    2976085 *
+*        :          : Tree compression factor =   2.37                       *
+******************************************************************************
+*Br    0 :iEtaPho1  : vector<float>                                          *
+*Entries :     1000 : Total  Size=     149521 bytes  File Size  =      20363 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   7.32     *
+*............................................................................*
+*Br    1 :iPhiPho1  : vector<float>                                          *
+*Entries :     1000 : Total  Size=     149521 bytes  File Size  =      26105 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   5.71     *
+*............................................................................*
+*Br    2 :Hit_ES_Eta_Pho1 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br    3 :Hit_ES_Phi_Pho1 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br    4 :Hit_ES_X_Pho1 : vector<float>                                      *
+*Entries :     1000 : Total  Size=      14606 bytes  File Size  =       2479 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br    5 :Hit_ES_Y_Pho1 : vector<float>                                      *
+*Entries :     1000 : Total  Size=      14606 bytes  File Size  =       2479 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br    6 :Hit_ES_Z_Pho1 : vector<float>                                      *
+*Entries :     1000 : Total  Size=      14606 bytes  File Size  =       2479 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br    7 :ES_RecHitEnPho1 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br    8 :Hit_Eta_Pho1 : vector<float>                                       *
+*Entries :     1000 : Total  Size=     149557 bytes  File Size  =     111093 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   1.34     *
+*............................................................................*
+*Br    9 :Hit_Phi_Pho1 : vector<float>                                       *
+*Entries :     1000 : Total  Size=     149557 bytes  File Size  =     127654 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   10 :Hit_X_Pho1 : vector<float>                                         *
+*Entries :     1000 : Total  Size=     149539 bytes  File Size  =     126186 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   1.18     *
+*............................................................................*
+*Br   11 :Hit_Y_Pho1 : vector<float>                                         *
+*Entries :     1000 : Total  Size=     149539 bytes  File Size  =     118959 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   1.25     *
+*............................................................................*
+*Br   12 :Hit_Z_Pho1 : vector<float>                                         *
+*Entries :     1000 : Total  Size=     149539 bytes  File Size  =      45693 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   3.26     *
+*............................................................................*
+*Br   13 :RecHitEnPho1 : vector<float>                                       *
+*Entries :     1000 : Total  Size=     149557 bytes  File Size  =     106822 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   1.40     *
+*............................................................................*
+*Br   14 :RecHitFracPho1 : vector<float>                                     *
+*Entries :     1000 : Total  Size=     149575 bytes  File Size  =       8063 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=  18.49     *
+*............................................................................*
+*Br   15 :RecHitGain1 : vector<int>                                          *
+*Entries :     1000 : Total  Size=     149548 bytes  File Size  =       8083 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=  18.44     *
+*............................................................................*
+*Br   16 :RecHitQuality1 : vector<bool>                                      *
+*Entries :     1000 : Total  Size=      48352 bytes  File Size  =       6750 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.09     *
+*............................................................................*
+*Br   17 :HitNoisePho1 : vector<float>                                       *
+*Entries :     1000 : Total  Size=     149557 bytes  File Size  =      80629 *
+*Baskets :        5 : Basket Size=      32000 bytes  Compression=   1.85     *
+*............................................................................*
+*Br   18 :dRHit_Eta_Pho1 : vector<float>                                     *
+*Entries :     1000 : Total  Size=      14611 bytes  File Size  =       2473 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.70     *
+*............................................................................*
+*Br   19 :dRHit_Phi_Pho1 : vector<float>                                     *
+*Entries :     1000 : Total  Size=      14611 bytes  File Size  =       2473 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.70     *
+*............................................................................*
+*Br   20 :RawHit_Eta_Pho1 : vector<float>                                    *
+*Entries :     1000 : Total  Size=     242045 bytes  File Size  =     170317 *
+*Baskets :        8 : Basket Size=      32000 bytes  Compression=   1.42     *
+*............................................................................*
+*Br   21 :RawHit_Phi_Pho1 : vector<float>                                    *
+*Entries :     1000 : Total  Size=     242045 bytes  File Size  =     209509 *
+*Baskets :        8 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br   22 :RawRecHit_X_Pho1 : vector<float>                                   *
+*Entries :     1000 : Total  Size=     242057 bytes  File Size  =     205919 *
+*Baskets :        8 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   23 :RawRecHit_Y_Pho1 : vector<float>                                   *
+*Entries :     1000 : Total  Size=     242057 bytes  File Size  =     195692 *
+*Baskets :        8 : Basket Size=      32000 bytes  Compression=   1.23     *
+*............................................................................*
+*Br   24 :RawRecHit_Z_Pho1 : vector<float>                                   *
+*Entries :     1000 : Total  Size=     242057 bytes  File Size  =      79917 *
+*Baskets :        8 : Basket Size=      32000 bytes  Compression=   3.02     *
+*............................................................................*
+*Br   25 :RawRecHitEnPho1 : vector<float>                                    *
+*Entries :     1000 : Total  Size=     242045 bytes  File Size  =     171958 *
+*Baskets :        8 : Basket Size=      32000 bytes  Compression=   1.40     *
+*............................................................................*
+*Br   26 :RawHit_Eta_Pho2 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      74026 bytes  File Size  =      48360 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.52     *
+*............................................................................*
+*Br   27 :RawHit_Phi_Pho2 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      74026 bytes  File Size  =      58816 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.25     *
+*............................................................................*
+*Br   28 :RawRecHit_X_Pho2 : vector<float>                                   *
+*Entries :     1000 : Total  Size=      74033 bytes  File Size  =      57684 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.27     *
+*............................................................................*
+*Br   29 :RawRecHit_Y_Pho2 : vector<float>                                   *
+*Entries :     1000 : Total  Size=      74033 bytes  File Size  =      57544 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.28     *
+*............................................................................*
+*Br   30 :RawRecHit_Z_Pho2 : vector<float>                                   *
+*Entries :     1000 : Total  Size=      74033 bytes  File Size  =      21646 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   3.40     *
+*............................................................................*
+*Br   31 :RawRecHitEnPho2 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      74026 bytes  File Size  =      50109 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.47     *
+*............................................................................*
+*Br   32 :dRHit_X_Pho1 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      14601 bytes  File Size  =       2474 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   33 :dRHit_Y_Pho1 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      14601 bytes  File Size  =       2474 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   34 :dRHit_Z_Pho1 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      14601 bytes  File Size  =       2474 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   35 :dRRecHitEnPho1 : vector<float>                                     *
+*Entries :     1000 : Total  Size=      14611 bytes  File Size  =       2473 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.70     *
+*............................................................................*
+*Br   36 :dRRecHitFracPho1 : vector<float>                                   *
+*Entries :     1000 : Total  Size=      14621 bytes  File Size  =       2477 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   37 :dRHit_Eta_Pho2 : vector<float>                                     *
+*Entries :     1000 : Total  Size=      14611 bytes  File Size  =       2473 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.70     *
+*............................................................................*
+*Br   38 :dRHit_Phi_Pho2 : vector<float>                                     *
+*Entries :     1000 : Total  Size=      14611 bytes  File Size  =       2473 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.70     *
+*............................................................................*
+*Br   39 :dRHit_X_Pho2 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      14601 bytes  File Size  =       2474 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   40 :dRHit_Y_Pho2 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      14601 bytes  File Size  =       2474 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   41 :dRHit_Z_Pho2 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      14601 bytes  File Size  =       2474 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   42 :dRRecHitEnPho2 : vector<float>                                     *
+*Entries :     1000 : Total  Size=      14611 bytes  File Size  =       2473 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.70     *
+*............................................................................*
+*Br   43 :dRRecHitFracPho2 : vector<float>                                   *
+*Entries :     1000 : Total  Size=      14621 bytes  File Size  =       2477 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br   44 :RecHitFlag_kGood_pho1 : vector<bool>                               *
+*Entries :     1000 : Total  Size=      48394 bytes  File Size  =       6763 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.07     *
+*............................................................................*
+*Br   45 :RecHitFlag_kPoorReco_pho1 : vector<bool>                           *
+*Entries :     1000 : Total  Size=      48418 bytes  File Size  =       6183 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.74     *
+*............................................................................*
+*Br   46 :RecHitFlag_kOutOfTime_pho1 : vector<bool>                          *
+*Entries :     1000 : Total  Size=      48424 bytes  File Size  =       6240 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.67     *
+*............................................................................*
+*Br   47 :RecHitFlag_kFaultyHardware_pho1 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      48454 bytes  File Size  =       6202 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.72     *
+*............................................................................*
+*Br   48 :RecHitFlag_kNoisy_pho1 : vector<bool>                              *
+*Entries :     1000 : Total  Size=      48400 bytes  File Size  =       6185 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.74     *
+*............................................................................*
+*Br   49 :RecHitFlag_kPoorCalib_pho1 : vector<bool>                          *
+*Entries :     1000 : Total  Size=      48424 bytes  File Size  =       6226 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.69     *
+*............................................................................*
+*Br   50 :RecHitFlag_kSaturated_pho1 : vector<bool>                          *
+*Entries :     1000 : Total  Size=      48424 bytes  File Size  =       6187 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.73     *
+*............................................................................*
+*Br   51 :RecHitFlag_kLeadingEdgeRecovered_pho1 : vector<bool>               *
+*Entries :     1000 : Total  Size=      48490 bytes  File Size  =       6221 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.70     *
+*............................................................................*
+*Br   52 :RecHitFlag_kNeighboursRecovered_pho1 : vector<bool>                *
+*Entries :     1000 : Total  Size=      48484 bytes  File Size  =       6212 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.71     *
+*............................................................................*
+*Br   53 :RecHitFlag_kTowerRecovered_pho1 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      48454 bytes  File Size  =       6352 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.53     *
+*............................................................................*
+*Br   54 :RecHitFlag_kDead_pho1 : vector<bool>                               *
+*Entries :     1000 : Total  Size=      48394 bytes  File Size  =       6593 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.26     *
+*............................................................................*
+*Br   55 :RecHitFlag_kKilled_pho1 : vector<bool>                             *
+*Entries :     1000 : Total  Size=      48406 bytes  File Size  =       6193 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.73     *
+*............................................................................*
+*Br   56 :RecHitFlag_kTPSaturated_pho1 : vector<bool>                        *
+*Entries :     1000 : Total  Size=      48436 bytes  File Size  =       6190 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.73     *
+*............................................................................*
+*Br   57 :RecHitFlag_kL1SpikeFlag_pho1 : vector<bool>                        *
+*Entries :     1000 : Total  Size=      48436 bytes  File Size  =       6190 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.73     *
+*............................................................................*
+*Br   58 :RecHitFlag_kWeird_pho1 : vector<bool>                              *
+*Entries :     1000 : Total  Size=      48400 bytes  File Size  =       6185 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.74     *
+*............................................................................*
+*Br   59 :RecHitFlag_kDiWeird_pho1 : vector<bool>                            *
+*Entries :     1000 : Total  Size=      48412 bytes  File Size  =       6180 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.74     *
+*............................................................................*
+*Br   60 :RecHitFlag_kHasSwitchToGain6_pho1 : vector<bool>                   *
+*Entries :     1000 : Total  Size=      48466 bytes  File Size  =       6209 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.71     *
+*............................................................................*
+*Br   61 :RecHitFlag_kHasSwitchToGain1_pho1 : vector<bool>                   *
+*Entries :     1000 : Total  Size=      48466 bytes  File Size  =       6209 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   7.71     *
+*............................................................................*
+*Br   62 :RecHitFlag_kESGood_pho1 : vector<bool>                             *
+*Entries :     1000 : Total  Size=      14656 bytes  File Size  =       2490 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.66     *
+*............................................................................*
+*Br   63 :RecHitFlag_kESDead_pho1 : vector<bool>                             *
+*Entries :     1000 : Total  Size=      14656 bytes  File Size  =       2490 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.66     *
+*............................................................................*
+*Br   64 :RecHitFlag_kESHot_pho1 : vector<bool>                              *
+*Entries :     1000 : Total  Size=      14651 bytes  File Size  =       2485 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br   65 :RecHitFlag_kESPassBX_pho1 : vector<bool>                           *
+*Entries :     1000 : Total  Size=      14666 bytes  File Size  =       2493 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br   66 :RecHitFlag_kESTwoGoodRatios_pho1 : vector<bool>                    *
+*Entries :     1000 : Total  Size=      14701 bytes  File Size  =       2495 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br   67 :RecHitFlag_kESBadRatioFor12_pho1 : vector<bool>                    *
+*Entries :     1000 : Total  Size=      14701 bytes  File Size  =       2495 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br   68 :RecHitFlag_kESBadRatioFor23Upper_pho1 : vector<bool>               *
+*Entries :     1000 : Total  Size=      14726 bytes  File Size  =       2508 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.63     *
+*............................................................................*
+*Br   69 :RecHitFlag_kESBadRatioFor23Lower_pho1 : vector<bool>               *
+*Entries :     1000 : Total  Size=      14726 bytes  File Size  =       2508 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.63     *
+*............................................................................*
+*Br   70 :RecHitFlag_kESTS1Largest_pho1 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br   71 :RecHitFlag_kESTS3Largest_pho1 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br   72 :RecHitFlag_kESTS3Negative_pho1 : vector<bool>                      *
+*Entries :     1000 : Total  Size=      14691 bytes  File Size  =       2495 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br   73 :RecHitFlag_kESSaturated_pho1 : vector<bool>                        *
+*Entries :     1000 : Total  Size=      14681 bytes  File Size  =       2488 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br   74 :RecHitFlag_kESTS2Saturated_pho1 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      14696 bytes  File Size  =       2499 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br   75 :RecHitFlag_kESTS3Saturated_pho1 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      14696 bytes  File Size  =       2499 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br   76 :RecHitFlag_kESTS13Sigmas_pho1 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br   77 :RecHitFlag_kESTS15Sigmas_pho1 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br   78 :iEtaPho2  : vector<float>                                          *
+*Entries :     1000 : Total  Size=      49413 bytes  File Size  =       7832 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   6.25     *
+*............................................................................*
+*Br   79 :iPhiPho2  : vector<float>                                          *
+*Entries :     1000 : Total  Size=      49413 bytes  File Size  =       9877 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   4.95     *
+*............................................................................*
+*Br   80 :Hit_ES_Eta_Pho2 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br   81 :Hit_ES_Phi_Pho2 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br   82 :Hit_ES_X_Pho2 : vector<float>                                      *
+*Entries :     1000 : Total  Size=      14606 bytes  File Size  =       2479 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br   83 :Hit_ES_Y_Pho2 : vector<float>                                      *
+*Entries :     1000 : Total  Size=      14606 bytes  File Size  =       2479 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br   84 :Hit_ES_Z_Pho2 : vector<float>                                      *
+*Entries :     1000 : Total  Size=      14606 bytes  File Size  =       2479 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br   85 :ES_RecHitEnPho2 : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br   86 :Hit_Eta_Pho2 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      49437 bytes  File Size  =      31925 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   1.53     *
+*............................................................................*
+*Br   87 :Hit_Phi_Pho2 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      49437 bytes  File Size  =      36308 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br   88 :Hit_X_Pho2 : vector<float>                                         *
+*Entries :     1000 : Total  Size=      49425 bytes  File Size  =      35891 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   1.36     *
+*............................................................................*
+*Br   89 :Hit_Y_Pho2 : vector<float>                                         *
+*Entries :     1000 : Total  Size=      49425 bytes  File Size  =      35617 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br   90 :Hit_Z_Pho2 : vector<float>                                         *
+*Entries :     1000 : Total  Size=      49425 bytes  File Size  =      13035 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   3.75     *
+*............................................................................*
+*Br   91 :RecHitEnPho2 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      49437 bytes  File Size  =      30424 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   1.61     *
+*............................................................................*
+*Br   92 :RecHitFracPho2 : vector<float>                                     *
+*Entries :     1000 : Total  Size=      49449 bytes  File Size  =       4494 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=  10.89     *
+*............................................................................*
+*Br   93 :RecHitGain2 : vector<int>                                          *
+*Entries :     1000 : Total  Size=      49431 bytes  File Size  =       4531 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=  10.80     *
+*............................................................................*
+*Br   94 :RecHitQuality2 : vector<bool>                                      *
+*Entries :     1000 : Total  Size=      23299 bytes  File Size  =       4208 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.41     *
+*............................................................................*
+*Br   95 :HitNoisePho2 : vector<float>                                       *
+*Entries :     1000 : Total  Size=      49437 bytes  File Size  =      24577 *
+*Baskets :        2 : Basket Size=      32000 bytes  Compression=   1.99     *
+*............................................................................*
+*Br   96 :RecHitFlag_kGood_pho2 : vector<bool>                               *
+*Entries :     1000 : Total  Size=      23334 bytes  File Size  =       4211 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.41     *
+*............................................................................*
+*Br   97 :RecHitFlag_kPoorReco_pho2 : vector<bool>                           *
+*Entries :     1000 : Total  Size=      23354 bytes  File Size  =       4056 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br   98 :RecHitFlag_kOutOfTime_pho2 : vector<bool>                          *
+*Entries :     1000 : Total  Size=      23359 bytes  File Size  =       4070 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.60     *
+*............................................................................*
+*Br   99 :RecHitFlag_kFaultyHardware_pho2 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      23384 bytes  File Size  =       4060 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.61     *
+*............................................................................*
+*Br  100 :RecHitFlag_kNoisy_pho2 : vector<bool>                              *
+*Entries :     1000 : Total  Size=      23339 bytes  File Size  =       4052 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br  101 :RecHitFlag_kPoorCalib_pho2 : vector<bool>                          *
+*Entries :     1000 : Total  Size=      23359 bytes  File Size  =       4055 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br  102 :RecHitFlag_kSaturated_pho2 : vector<bool>                          *
+*Entries :     1000 : Total  Size=      23359 bytes  File Size  =       4055 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br  103 :RecHitFlag_kLeadingEdgeRecovered_pho2 : vector<bool>               *
+*Entries :     1000 : Total  Size=      23414 bytes  File Size  =       4071 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.60     *
+*............................................................................*
+*Br  104 :RecHitFlag_kNeighboursRecovered_pho2 : vector<bool>                *
+*Entries :     1000 : Total  Size=      23409 bytes  File Size  =       4069 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.60     *
+*............................................................................*
+*Br  105 :RecHitFlag_kTowerRecovered_pho2 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      23384 bytes  File Size  =       4114 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.54     *
+*............................................................................*
+*Br  106 :RecHitFlag_kDead_pho2 : vector<bool>                               *
+*Entries :     1000 : Total  Size=      23334 bytes  File Size  =       4142 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.50     *
+*............................................................................*
+*Br  107 :RecHitFlag_kKilled_pho2 : vector<bool>                             *
+*Entries :     1000 : Total  Size=      23344 bytes  File Size  =       4047 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.63     *
+*............................................................................*
+*Br  108 :RecHitFlag_kTPSaturated_pho2 : vector<bool>                        *
+*Entries :     1000 : Total  Size=      23369 bytes  File Size  =       4057 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br  109 :RecHitFlag_kL1SpikeFlag_pho2 : vector<bool>                        *
+*Entries :     1000 : Total  Size=      23369 bytes  File Size  =       4057 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br  110 :RecHitFlag_kWeird_pho2 : vector<bool>                              *
+*Entries :     1000 : Total  Size=      23339 bytes  File Size  =       4052 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br  111 :RecHitFlag_kDiWeird_pho2 : vector<bool>                            *
+*Entries :     1000 : Total  Size=      23349 bytes  File Size  =       4057 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.62     *
+*............................................................................*
+*Br  112 :RecHitFlag_kHasSwitchToGain6_pho2 : vector<bool>                   *
+*Entries :     1000 : Total  Size=      23394 bytes  File Size  =       4067 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.60     *
+*............................................................................*
+*Br  113 :RecHitFlag_kHasSwitchToGain1_pho2 : vector<bool>                   *
+*Entries :     1000 : Total  Size=      23394 bytes  File Size  =       4067 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.60     *
+*............................................................................*
+*Br  114 :RecHitFlag_kESGood_pho2 : vector<bool>                             *
+*Entries :     1000 : Total  Size=      14656 bytes  File Size  =       2490 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.66     *
+*............................................................................*
+*Br  115 :RecHitFlag_kESDead_pho2 : vector<bool>                             *
+*Entries :     1000 : Total  Size=      14656 bytes  File Size  =       2490 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.66     *
+*............................................................................*
+*Br  116 :RecHitFlag_kESHot_pho2 : vector<bool>                              *
+*Entries :     1000 : Total  Size=      14651 bytes  File Size  =       2485 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br  117 :RecHitFlag_kESPassBX_pho2 : vector<bool>                           *
+*Entries :     1000 : Total  Size=      14666 bytes  File Size  =       2493 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br  118 :RecHitFlag_kESTwoGoodRatios_pho2 : vector<bool>                    *
+*Entries :     1000 : Total  Size=      14701 bytes  File Size  =       2495 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br  119 :RecHitFlag_kESBadRatioFor12_pho2 : vector<bool>                    *
+*Entries :     1000 : Total  Size=      14701 bytes  File Size  =       2495 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br  120 :RecHitFlag_kESBadRatioFor23Upper_pho2 : vector<bool>               *
+*Entries :     1000 : Total  Size=      14726 bytes  File Size  =       2508 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.63     *
+*............................................................................*
+*Br  121 :RecHitFlag_kESBadRatioFor23Lower_pho2 : vector<bool>               *
+*Entries :     1000 : Total  Size=      14726 bytes  File Size  =       2508 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.63     *
+*............................................................................*
+*Br  122 :RecHitFlag_kESTS1Largest_pho2 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br  123 :RecHitFlag_kESTS3Largest_pho2 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br  124 :RecHitFlag_kESTS3Negative_pho2 : vector<bool>                      *
+*Entries :     1000 : Total  Size=      14691 bytes  File Size  =       2495 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.65     *
+*............................................................................*
+*Br  125 :RecHitFlag_kESSaturated_pho2 : vector<bool>                        *
+*Entries :     1000 : Total  Size=      14681 bytes  File Size  =       2488 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br  126 :RecHitFlag_kESTS2Saturated_pho2 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      14696 bytes  File Size  =       2499 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br  127 :RecHitFlag_kESTS3Saturated_pho2 : vector<bool>                     *
+*Entries :     1000 : Total  Size=      14696 bytes  File Size  =       2499 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br  128 :RecHitFlag_kESTS13Sigmas_pho2 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br  129 :RecHitFlag_kESTS15Sigmas_pho2 : vector<bool>                       *
+*Entries :     1000 : Total  Size=      14686 bytes  File Size  =       2502 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.64     *
+*............................................................................*
+*Br  130 :nPhotons  : nPho/I                                                 *
+*Entries :     1000 : Total  Size=       4557 bytes  File Size  =        638 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   6.38     *
+*............................................................................*
+*Br  131 :pt        : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18887 bytes  File Size  =       8475 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.17     *
+*............................................................................*
+*Br  132 :eta       : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18892 bytes  File Size  =       8836 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.08     *
+*............................................................................*
+*Br  133 :phi       : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18892 bytes  File Size  =       8876 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.07     *
+*............................................................................*
+*Br  134 :Pho_cluster_seed_x : vector<float>                                 *
+*Entries :     1000 : Total  Size=      18967 bytes  File Size  =       8858 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.08     *
+*............................................................................*
+*Br  135 :Pho_cluster_seed_y : vector<float>                                 *
+*Entries :     1000 : Total  Size=      18967 bytes  File Size  =       8841 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.08     *
+*............................................................................*
+*Br  136 :Pho_cluster_seed_z : vector<float>                                 *
+*Entries :     1000 : Total  Size=      18967 bytes  File Size  =       8802 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.09     *
+*............................................................................*
+*Br  137 :Pho_cluster_seed_eta : vector<float>                               *
+*Entries :     1000 : Total  Size=      18977 bytes  File Size  =       3622 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.09     *
+*............................................................................*
+*Br  138 :Pho_cluster_seed_phi : vector<float>                               *
+*Entries :     1000 : Total  Size=      18977 bytes  File Size  =       3622 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.09     *
+*............................................................................*
+*Br  139 :energy    : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18907 bytes  File Size  =       8471 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.17     *
+*............................................................................*
+*Br  140 :energy_ecal_mustache : vector<float>                               *
+*Entries :     1000 : Total  Size=      18977 bytes  File Size  =       8489 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.17     *
+*............................................................................*
+*Br  141 :passMediumId : vector<int>                                         *
+*Entries :     1000 : Total  Size=      14601 bytes  File Size  =       2474 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.69     *
+*............................................................................*
+*Br  142 :passTightId : vector<int>                                          *
+*Entries :     1000 : Total  Size=      14596 bytes  File Size  =       2478 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br  143 :passMVAMediumId : vector<int>                                      *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br  144 :Pho_R9    : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18907 bytes  File Size  =       8325 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.21     *
+*............................................................................*
+*Br  145 :Pho_S4    : vector<float>                                          *
+*Entries :     1000 : Total  Size=      14571 bytes  File Size  =       2466 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.71     *
+*............................................................................*
+*Br  146 :Pho_SigIEIE : vector<float>                                        *
+*Entries :     1000 : Total  Size=      18932 bytes  File Size  =       8317 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.21     *
+*............................................................................*
+*Br  147 :Pho_SigIPhiIPhi : vector<float>                                    *
+*Entries :     1000 : Total  Size=      18952 bytes  File Size  =       8399 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.19     *
+*............................................................................*
+*Br  148 :Pho_SCEtaW : vector<float>                                         *
+*Entries :     1000 : Total  Size=      18927 bytes  File Size  =       8378 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.20     *
+*............................................................................*
+*Br  149 :Pho_SCPhiW : vector<float>                                         *
+*Entries :     1000 : Total  Size=      18927 bytes  File Size  =       8545 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.16     *
+*............................................................................*
+*Br  150 :Pho_CovIEtaIEta : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br  151 :Pho_CovIEtaIPhi : vector<float>                                    *
+*Entries :     1000 : Total  Size=      14616 bytes  File Size  =       2483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.67     *
+*............................................................................*
+*Br  152 :Pho_ESSigRR : vector<float>                                        *
+*Entries :     1000 : Total  Size=      14596 bytes  File Size  =       2478 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.68     *
+*............................................................................*
+*Br  153 :Pho_SCRawE : vector<float>                                         *
+*Entries :     1000 : Total  Size=      18927 bytes  File Size  =       8483 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.17     *
+*............................................................................*
+*Br  154 :Pho_SC_ESEnByRawE : vector<float>                                  *
+*Entries :     1000 : Total  Size=      18962 bytes  File Size  =       4855 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   3.80     *
+*............................................................................*
+*Br  155 :Pho_HadOverEm : vector<float>                                      *
+*Entries :     1000 : Total  Size=      18942 bytes  File Size  =       6515 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.83     *
+*............................................................................*
+*Br  156 :Pho_PFChIso : vector<float>                                        *
+*Entries :     1000 : Total  Size=      18932 bytes  File Size  =       3630 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.07     *
+*............................................................................*
+*Br  157 :Pho_PFChPVIso : vector<float>                                      *
+*Entries :     1000 : Total  Size=      18942 bytes  File Size  =       3629 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.08     *
+*............................................................................*
+*Br  158 :Pho_PFPhoIso : vector<float>                                       *
+*Entries :     1000 : Total  Size=      18937 bytes  File Size  =       3616 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.09     *
+*............................................................................*
+*Br  159 :Pho_PFNeuIso : vector<float>                                       *
+*Entries :     1000 : Total  Size=      18937 bytes  File Size  =       3616 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.09     *
+*............................................................................*
+*Br  160 :Pho_PFChWorstVetoIso : vector<float>                               *
+*Entries :     1000 : Total  Size=      18977 bytes  File Size  =       3631 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.08     *
+*............................................................................*
+*Br  161 :Pho_PFChWorstIso : vector<float>                                   *
+*Entries :     1000 : Total  Size=      18957 bytes  File Size  =       3627 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.08     *
+*............................................................................*
+*Br  162 :Pho_EcalPFClusterIso : vector<float>                               *
+*Entries :     1000 : Total  Size=      18977 bytes  File Size  =       3631 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.08     *
+*............................................................................*
+*Br  163 :Pho_HcalPFClusterIso : vector<float>                               *
+*Entries :     1000 : Total  Size=      18977 bytes  File Size  =       3631 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   5.08     *
+*............................................................................*
+*Br  164 :Pho_CorrectedEnergy : vector<float>                                *
+*Entries :     1000 : Total  Size=      18972 bytes  File Size  =       8468 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.18     *
+*............................................................................*
+*Br  165 :Pho_CorrectedEnergyError : vector<float>                           *
+*Entries :     1000 : Total  Size=      18997 bytes  File Size  =       8644 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.13     *
+*............................................................................*
+*Br  166 :A_Gen_mass : vector<float>                                         *
+*Entries :     1000 : Total  Size=      18591 bytes  File Size  =       2573 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   7.03     *
+*............................................................................*
+*Br  167 :A_Gen_pt  : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18581 bytes  File Size  =       7499 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.41     *
+*............................................................................*
+*Br  168 :A_Gen_eta : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18586 bytes  File Size  =       7832 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.31     *
+*............................................................................*
+*Br  169 :A_Gen_phi : vector<float>                                          *
+*Entries :     1000 : Total  Size=      18586 bytes  File Size  =       7835 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.31     *
+*............................................................................*
+*Br  170 :Pho_Gen_Pt : vector<float>                                         *
+*Entries :     1000 : Total  Size=      22555 bytes  File Size  =      11695 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   1.89     *
+*............................................................................*
+*Br  171 :Pho_Gen_Eta : vector<float>                                        *
+*Entries :     1000 : Total  Size=      22560 bytes  File Size  =      11957 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  172 :Pho_Gen_Phi : vector<float>                                        *
+*Entries :     1000 : Total  Size=      22560 bytes  File Size  =      11984 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  173 :Pho_Gen_E : vector<float>                                          *
+*Entries :     1000 : Total  Size=      22550 bytes  File Size  =      11677 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   1.89     *
+*............................................................................*
+*Br  174 :rho       : rho/F                                                  *
+*Entries :     1000 : Total  Size=       4544 bytes  File Size  =       3604 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br  175 :run       : run/I                                                  *
+*Entries :     1000 : Total  Size=       4544 bytes  File Size  =        122 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=  33.34     *
+*............................................................................*
+*Br  176 :event     : event/I                                                *
+*Entries :     1000 : Total  Size=       4554 bytes  File Size  =       2011 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=   2.02     *
+*............................................................................*
+*Br  177 :lumi      : lumi/I                                                 *
+*Entries :     1000 : Total  Size=       4549 bytes  File Size  =        123 *
+*Baskets :        1 : Basket Size=      32000 bytes  Compression=  33.07     *
+*............................................................................*
+
+
+
+
+
+
+
+
+
+

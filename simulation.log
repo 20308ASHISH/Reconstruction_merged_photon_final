@@ -1,0 +1,147 @@
+
+=======================================================
+  GENERATOR MULTIPLICITY ANALYSIS BY MASS VALUE
+=======================================================
+Mass Bin (GeV)  | Mean Photon Cnt  | Median Photon Cnt
+-------------------------------------------------------
+299-300         | 2.00             | 2.0             
+300-301         | 2.00             | 2.0             
+=======================================================
+
+Saved: photon_separation_deltaR_comparison.png
+
+
+// scram b -j32
+
+Reading cached build data
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+****WARNING: Invalid tool GeneratorInterface/Pythia8Interface. Please fix src/GeneratorInterface/Pythia8Interface/plugins/BuildFile.xml file.
+>> Building CMSSW version CMSSW_10_6_29 ----
+>> Subsystem BigProducts built
+>> Entering Package Analyzer/EcalMapping
+>> Creating project symlinks
+>> Entering Package DP1_folder/PhysicsAnalysis
+>> Entering Package DP1_folder/plot_analysis
+>> Entering Package GeneratorInterface/Pythia8Interface
+>> Leaving Package DP1_folder/PhysicsAnalysis
+>> Package DP1_folder/PhysicsAnalysis built
+>> Leaving Package DP1_folder/plot_analysis
+>> Leaving Package Analyzer/EcalMapping
+>> Package Analyzer/EcalMapping built
+>> Package DP1_folder/plot_analysis built
+>> Building edm plugin tmp/slc7_amd64_gcc700/src/GeneratorInterface/Pythia8Interface/plugins/GeneratorInterfacePythia8Plugins/libGeneratorInterfacePythia8Plugins.so
+gmake: *** [There are compilation/build errors. Please see the detail log above.] Error 2
+
+
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+****WARNING: Invalid tool pythia8interface. Please fix src/GeneratorInterface/Pythia8Interface/plugins/BuildFile.xml file.
+>> Building CMSSW version CMSSW_10_6_29 ----
+>> Subsystem BigProducts built
+>> Entering Package Analyzer/EcalMapping
+>> Creating project symlinks
+>> Entering Package DP1_folder/plot_analysis
+>> Entering Package DP1_folder/PhysicsAnalysis
+>> Entering Package GeneratorInterface/Pythia8Interface
+>> Leaving Package Analyzer/EcalMapping
+>> Leaving Package DP1_folder/PhysicsAnalysis
+>> Leaving Package DP1_folder/plot_analysis
+>> Package DP1_folder/PhysicsAnalysis built
+>> Package Analyzer/EcalMapping built
+>> Package DP1_folder/plot_analysis built
+>> Building edm plugin tmp/slc7_amd64_gcc700/src/GeneratorInterface/Pythia8Interface/plugins/GeneratorInterfacePythia8Plugins/libGeneratorInterfacePythia8Plugins.so
+gmake: *** [There are compilation/build errors. Please see the detail log above.] Error 2
+
+
+Resetting caches
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+>> Building CMSSW version CMSSW_10_6_29 ----
+>> Subsystem BigProducts built
+>> Entering Package Analyzer/EcalMapping
+>> Creating project symlinks
+>> Entering Package DP1_folder/PhysicsAnalysis
+>> Entering Package DP1_folder/plot_analysis
+>> Entering Package GeneratorInterface/Pythia8Interface
+>> Leaving Package DP1_folder/plot_analysis
+Entering library rule at src/Analyzer/EcalMapping/plugins
+>> Leaving Package DP1_folder/PhysicsAnalysis
+>> Package DP1_folder/plot_analysis built
+>> Package DP1_folder/PhysicsAnalysis built
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/Analyzer/EcalMapping/plugins/DetID_Manipulator.cc 
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/Analyzer/EcalMapping/plugins/Simhits_Analyzer_ShowerProfile.cc 
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/Analyzer/EcalMapping/plugins/ECAL_Simhits_Analyzer.cc 
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/Analyzer/EcalMapping/plugins/GenParticleAnalyzer.cc 
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/Analyzer/EcalMapping/plugins/ECAL_Rechits_Analyzer.cc 
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/Analyzer/EcalMapping/plugins/Photon_RefinedRecHit_NTuplizer.cc 
+>> Subsystem DP1_folder built
+Entering library rule at src/GeneratorInterface/Pythia8Interface/plugins
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/GeneratorInterface/Pythia8Interface/plugins/Py8PtGun.cc 
+>> Building edm plugin tmp/slc7_amd64_gcc700/src/Analyzer/EcalMapping/plugins/AnalyzerEcalMappingAuto/libAnalyzerEcalMappingAuto.so
+Leaving library rule at src/Analyzer/EcalMapping/plugins
+@@@@ Running edmWriteConfigs for AnalyzerEcalMappingAuto
+--- Registered EDM Plugin: AnalyzerEcalMappingAuto
+>> Leaving Package Analyzer/EcalMapping
+>> Package Analyzer/EcalMapping built
+>> Subsystem Analyzer built
+>> Building edm plugin tmp/slc7_amd64_gcc700/src/GeneratorInterface/Pythia8Interface/plugins/GeneratorInterfacePythia8Plugins/libGeneratorInterfacePythia8Plugins.so
+gmake: *** [There are compilation/build errors. Please see the detail log above.] Error 2
+Reading cached build data
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+>> Building CMSSW version CMSSW_10_6_29 ----
+>> Subsystem BigProducts built
+>> Entering Package DP1_folder/PhysicsAnalysis
+>> Entering Package DP1_folder/plot_analysis
+>> Entering Package GeneratorInterface/Pythia8Interface
+>> Creating project symlinks
+>> Entering Package Analyzer/EcalMapping
+>> Leaving Package DP1_folder/PhysicsAnalysis
+>> Leaving Package DP1_folder/plot_analysis
+>> Package DP1_folder/PhysicsAnalysis built
+>> Package DP1_folder/plot_analysis built
+>> Leaving Package Analyzer/EcalMapping
+>> Subsystem DP1_folder built
+>> Package Analyzer/EcalMapping built
+>> Subsystem Analyzer built
+Entering library rule at src/GeneratorInterface/Pythia8Interface/plugins
+>> Compiling edm plugin /eos/home-a/asmishra/cms_project/CMSSW_10_6_29/src/GeneratorInterface/Pythia8Interface/plugins/Py8PtGun.cc 
+>> Building edm plugin tmp/slc7_amd64_gcc700/src/GeneratorInterface/Pythia8Interface/plugins/GeneratorInterfacePythia8Plugins/libGeneratorInterfacePythia8Plugins.so
+gmake: *** [There are compilation/build errors. Please see the detail log above.] Error 2
+
+
+as there were build mismatch, so better we load all from base:
+
+mkdir -p GeneratorInterface/Pythia8Interface
+
+# 2. Copy the entire official package from the release base
+cp -r $CMSSW_RELEASE_BASE/src/GeneratorInterface/Pythia8Interface/* GeneratorInterface/Pythia8Interface/
+
+# 3. Replace the official gun with your custom modified version
+cp /eos/home-a/asmishra/Py8PtGun.cc.saved GeneratorInterface/Pythia8Interface/plugins/Py8PtGun.cc
+
+# 4. Clean out all broken cache and build ONLY this package
+scram b clean
+scram b -j32 src/GeneratorInterface/Pythia8Interface
+
+for run_Phase1.py
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+>> Creating project symlinks
+>> Entering Package GeneratorInterface/Pythia8Interface
+>> Leaving Package GeneratorInterface/Pythia8Interface
+>> Package GeneratorInterface/Pythia8Interface built
+
+Singularity> cmsRun run_Phase1.py | tee -a simulation.log 
+19-May-2026 13:38:58 CEST  Initiating request to open file file:DP1_folder/AToGG_GEN_E_new_all.root
+19-May-2026 13:38:58 CEST  Successfully opened file file:DP1_folder/AToGG_GEN_E_new_all.root
+19-May-2026 13:38:59 CEST  Closed file file:DP1_folder/AToGG_GEN_E_new_all.root
+----- Begin Fatal Exception 19-May-2026 13:38:59 CEST-----------------------
+An exception of category 'Configuration' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing module: class=GenParticleAnalyzer label='validateGen'
+Exception Message:
+MissingParameter: Parameter 'ecalHitsEB' not found.
+----- End Fatal Exception -------------------------------------------------
+

@@ -1,0 +1,4 @@
+
+Attaching file genparticle_histE10_ECal.root as _file0...
+(TFile *) 0x19629f0
+Collection name='THashList', class='THashList', size=0

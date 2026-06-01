@@ -1,0 +1,15 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="GeneratorInterface/Core"/>
+<use name="GeneratorInterface/ExternalDecays"/>
+<use name="GeneratorInterface/Pythia8Interface"/>
+<use name="clhep"/>
+<use name="hepmc"/>
+<use name="pythia8"/>
+<use name="dire"/>
+
+<library file="Py8PtGun.cc" name="GeneratorInterfacePythia8Guns">
+  <use name="GeneratorInterface/Pythia8Interface"/>
+  <flags EDM_PLUGIN="1"/>
+</library>

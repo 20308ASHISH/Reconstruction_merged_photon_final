@@ -1,0 +1,12 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="SimDataFormats/CaloHit"/>
+<use name="DataFormats/EcalDetId"/>
+<use name="root"/>
+
+<library file="GenParticleAnalyzer.cc" name="EcalShowerAnalyzer">
+  <flags EDM_PLUGIN="1"/>
+</library>

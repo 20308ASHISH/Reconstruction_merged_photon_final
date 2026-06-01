@@ -1,0 +1,9 @@
+build/
+bin/
+lib/
+tmp/
+.html/
+*.d
+*.so
+*.pyc
+*.root
